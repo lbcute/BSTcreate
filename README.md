@@ -1,0 +1,2 @@
+# BSTcreate
+create bsttree
