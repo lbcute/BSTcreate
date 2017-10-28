@@ -1,5 +1,5 @@
 
-#include<iostream>
+'''#include<iostream>
 #include<cstdio>//使用c语言的库，方便主函数的格式输入
 #include<queue>
 using namespace std;
@@ -62,4 +62,4 @@ int main()
   }
   
   
-}
+}'''
